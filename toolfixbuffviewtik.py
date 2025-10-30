@@ -1,6 +1,6 @@
 #!/bin/python3.12
 # -*- coding: utf-8 -*-
-__OWN__ = "Nguyễn Xuân Trịnh & Phạm Anh Tiến"
+__OWN__ = "Zangzs Béo"
 __OBF__ = "PyHydra"
 __USR__ = "nvvip - main - Requests Protect"
 __GLB__ = (lambda Pyhydra: (lambda: 2010 - (lambda: 611)() - (lambda: Pyhydra)() + (lambda: 1)())())(1400)
@@ -10,7 +10,7 @@ __DOC__ = {
     "vi": "Obfuscator này được làm ra để bảo vệ code của mọi người tránh bị đánh cắp, crack. Vì vậy sẽ có nhiều thành phần xấu sử dụng obfuscator này để obfuscate những file botnet, keylog, v.v. Vì vậy hãy cẩn thận khi run file này!"
 }
 
-# https://api.nguyenxuantrinh.id.vn - https://t.me/CalceIsMe - https://www.facebook.com/tisa.premium
+# https://api.nguyenxuantrinh.id.vn
 
 class __nvvip__:
     def __init__(TrinhNguyen, *빒돩평층륜쫓뚜뒭쥩꿛늍, **엠껚벸뤣쏾씜쩐굒녞뻱덦):TrinhNguyen._빒돩평층륜쫓뚜뒭쥩꿛늍 = 빒돩평층륜쫓뚜뒭쥩꿛늍;TrinhNguyen._엠껚벸뤣쏾씜쩐굒녞뻱덦 = 엠껚벸뤣쏾씜쩐굒녞뻱덦;global nvvip; nvvip = TrinhNguyen._빒돩평층륜쫓뚜뒭쥩꿛늍[(lambda 놫쫑숟쭖푠쨩뇅덷햘먴뛬: 놫쫑숟쭖푠쨩뇅덷햘먴뛬 ^ 104)(104)] if TrinhNguyen._빒돩평층륜쫓뚜뒭쥩꿛늍 else None 
